@@ -124,3 +124,11 @@ header {
     margin: 0;
 }
 
+.cadre-article {
+  background-color: #e6f0ff; /* bleu clair très doux */
+  padding: 2em;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+
