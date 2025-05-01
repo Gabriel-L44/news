@@ -6,10 +6,9 @@
 body {
     margin: 0;
     font-family: 'Inter', sans-serif;
-    background-color: #f7f9fc;
+    background-color: #e6f0ff; /* Bleu clair doux */;
     color: #1a1a1a;
     line-height: 1.7;
-}
 
 .container {
     width: 92%;
@@ -124,11 +123,6 @@ header {
     margin: 0;
 }
 
-.cadre-article {
-  background-color: #e6f0ff; /* bleu clair très doux */
-  padding: 2em;
-  border-radius: 12px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.05);
-}
+
 
 
