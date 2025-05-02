@@ -123,6 +123,15 @@ header {
     margin: 0;
 }
 
+.lien-article {
+  font-weight: 600;
+  color: #0055aa;
+  text-decoration: none;
+}
+.lien-article:hover {
+  text-decoration: underline;
+}
+
 /* Media Queries pour les écrans mobiles */
 @media screen and (max-width: 768px) {
     header {
@@ -165,4 +174,13 @@ header {
     footer {
         padding: 1.5rem;
     }
+    .lien-article {
+  font-weight: 600;
+  color: #0055aa;
+  text-decoration: none;
+}
+.lien-article:hover {
+  text-decoration: underline;
+}
+
 }
