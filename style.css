@@ -164,7 +164,7 @@ header {
 
 .comment-form button {
     align-self: flex-start;
-    background-color: #333;
+    background-color: #0077cc;
     color: white;
     border: none;
     padding: 0.6rem 1.2rem;
@@ -179,7 +179,7 @@ header {
 
 .comment-list .comment {
     padding: 1rem;
-    background-color: white;
+    background-color: #e6f0ff;
     border: 1px solid #ddd;
     border-radius: 4px;
     margin-bottom: 1rem;
