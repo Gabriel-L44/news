@@ -54,9 +54,9 @@ nav a:hover {
 main article {
     background-color: #ffffff;
     padding: 3rem;
-    margin-top: 3rem;
+    margin-top: 10rem;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.05);
-    border-radius: 5px;
+    border-radius: 12px;
 }
 
 h2 {
